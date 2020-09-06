@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "B9CK74J9J9.com.lilyclasses",
+                "paths": [ "*"]
+            },
+            {
+                "appID": "T8TD99Y2PZ.com.lilyclassesHDD",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
